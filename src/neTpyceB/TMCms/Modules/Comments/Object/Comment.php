@@ -2,10 +2,8 @@
 namespace neTpyceB\TMCms\Modules\Comments\Object;
 
 use neTpyceB\TMCms\Modules\CommonObject;
-use neTpyceB\TMCms\Strings\Converter;
 
 /**
- * Class Product
  * @method getText() string
  */
 class Comment extends CommonObject {
